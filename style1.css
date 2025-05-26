@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: #333;
+}
+
+.container {
+  margin-top: 50px;
+}
+h1,
+h2,
+p {
+  color: whitesmoke;
+}
