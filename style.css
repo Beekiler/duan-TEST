@@ -1,4 +1,15 @@
 body {
   background-image: url(./jeremy-bishop-8xznAGy4HcY-unsplash.jpg);
-  background-size: auto;
+  background-size: cover;
+}
+h1 {
+  font-size: 40px;
+  font-style: oblique;
+  font-family: sans-serif;
+}
+ul {
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: underline;
+  color: crimson;
 }
